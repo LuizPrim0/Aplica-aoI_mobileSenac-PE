@@ -1,0 +1,21 @@
+{
+  "background_color": "#0f0e0e",
+  "description": "Um site para um escritor fictício.",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "tagalo",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "tag",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "categories": [
+    "books",
+    "education",
+    "entertainment"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "pt"
+}
