@@ -15,7 +15,10 @@
     "entertainment"
   ],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+    "src": "./icone.png",
+    "sizes": "530x530"
+  ],
   "shortcuts": [],
   "lang": "pt"
 }
